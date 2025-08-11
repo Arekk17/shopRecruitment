@@ -1,3 +1,9 @@
+dist
+node_modules
+*.log
+.husky
+.turbo
+
 # Dependencies
 node_modules/
 dist/

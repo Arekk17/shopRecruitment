@@ -1,3 +1,8 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #f2e8e8;
+  --color-brand-600: #964f52;
+  --color-ink: #1c0d0f;
+  --color-line: #e6e8eb;
+}
